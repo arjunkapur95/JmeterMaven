@@ -1,10 +1,8 @@
 ## Overview ##
 
-This is a sample project to show how we can run [JMeter][1] tests with the [JMeter Maven Plugin][2] and the [JMeter Analysis Maven Plugin][2].
+This is a sample project to show how we can run Jmeter tests using the [JMeter Maven Plugin][2] and [JMeter Analysis Maven Plugin][2].
 
-It runs a [JMeter][1] test against a few URLs on www.github.com and illustrates how the maven plugin can be used to run
-with different configurations.
-
+It runs a Jmeter tests against a few URLs on www.github.com .
 
 ## Usage ##
 
@@ -17,4 +15,4 @@ Test with different URL's by changing /src/test/uris.txt
 
 ## Configuration for Jenkins ##
 
-* Execute `mvn verify -Pperformance`
+* Execute Goals with `verify -Pperformance`
