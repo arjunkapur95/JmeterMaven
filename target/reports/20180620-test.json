@@ -1,0 +1,24 @@
+{
+  "performanceData":
+  [
+    {
+      "min": 2951,
+      "max": 5045,
+      "quantile90": 4501,
+      "average": 3586,
+      "total": 168,
+      "statusCodes":{
+                      "200": 40,
+                      "429": 128
+                    },
+      "uriByStatusCode":{
+                          "200": [
+                                  "/arjunkapur95/"
+                                 ],
+                          "429": [
+                                  "/arjunkapur95/"
+                                 ]
+                        }
+    }
+  ]
+}

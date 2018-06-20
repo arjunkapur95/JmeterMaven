@@ -1,0 +1,32 @@
+Group: test
+  time: 20180620T105718+1000 - 20180620T105747+1000
+  total duration:       30
+  requests:             40
+  requests per second:  1
+  response duration (ms)
+    min:                2951
+    average:            3586
+    max:                5045
+    standard deviation: 553
+    quantiles (ms)
+         10%     3072
+         20%     3174
+         30%     3235
+         40%     3274
+         50%     3364
+         60%     3469
+         70%     3503
+         80%     4199
+         90%     4501
+         99%     4752
+       99.9%     4752
+      100.0%     5045 (max. value)
+  response size (bytes)
+    total:              3631830
+    min:                90779
+    average:            90795
+    max:                90804
+    standard deviation: 7
+  response status codes
+    200:                  40 (23.81%)
+    429:                 128 (76.19%)
