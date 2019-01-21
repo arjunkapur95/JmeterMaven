@@ -1,6 +1,6 @@
 ## Overview ##
 
-This is a sample project to show how we can run Jmeter tests using the [JMeter Maven Plugin][2] and [JMeter Analysis Maven Plugin][2].
+This is a sample project to show how we can run Jmeter tests using the JMeter Analysis Maven Plugin.
 
 It runs a Jmeter tests against a few URLs on www.github.com .
 
