@@ -17,4 +17,4 @@ Test with different URL's by changing /src/test/uris.txt
 
 * SCM Configuration : ![myimage-alt-tag](https://i.imgur.com/iTTiPd2.png)
 
-* Execute Goals with `verify -Pperformance`
+* Execute Maven Goal with `verify -Pperformance`
