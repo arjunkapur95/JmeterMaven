@@ -15,6 +15,6 @@ Test with different URL's by changing /src/test/uris.txt
 
 ## Configuration for Jenkins ##
 
-* SCM Configuration : ![myimage-alt-tag] (https://i.imgur.com/iTTiPd2.png)
+* SCM Configuration : ![myimage-alt-tag](https://i.imgur.com/iTTiPd2.png)
 
 * Execute Goals with `verify -Pperformance`
